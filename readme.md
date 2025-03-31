@@ -20,7 +20,8 @@
   2025.03.14. ~ 2025.03.30. (16일)
 
 ## 🛤️ 프로젝트 시행 영상
-![프로젝트_시행영상]
+![11-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4b8a940b-fc24-42fb-9f85-80bbcc8da092)
+
 
 ## 🛠️사용한 기술
 
